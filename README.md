@@ -27,10 +27,17 @@ I craft the stories, scenes, and gameplay concepts that bring our worlds to life
 
 ### 🛰 Connect with me
 
-[Telegram](https://t.me/ntrdev) • [itch.io](https://netrunnerhub.itch.io) • [Email](mailto:netrunnerhub@gmail.com)
+[telegram](https://t.me/ntrdev) • [itch.io](https://krmkhnv14.itch.io) • [email](mailto:netrunnerhub@gmail.com)
+
+---
+
+### 🏢 netrunner studio
+
+[itch.io](https://netrunnerhub.itch.io) • [telegram](https://t.me/ntrdev)
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krmkhnv14&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
 </p>
+

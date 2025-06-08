@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c0/6c/ea/c06cea080aec53512ca5428a5280162c.jpg" width="100%" alt="banner" style="border-radius:10px"/>
+  <img src="https://i.pinimg.com/736x/a8/57/15/a857156b494cde7f8c5b4f5d2858ea3e.jpg" width="100%" alt="banner" style="border-radius:10px"/>
 </p>
 
 <h1 align="center">krmkhnv14</h1>
 <p align="center">
-  creative director · game designer · narrative architect  
+  founder · creative director · game designer · narrative architect  
 </p>
 <p align="center">
   The mind behind the stories, scenes, and gameplay concepts that define our worlds.  
@@ -12,20 +12,20 @@
 
 ---
 
-### 🧠 about
+### 🧠 About me
 
-krmkhnv — creative director, game designer, narrative architect.  
-The mind behind the stories, scenes, and gameplay concepts that define our worlds.
+krmkhnv14 — founder, creative director, game designer, and narrative architect.  
+I craft the stories, scenes, and gameplay concepts that bring our worlds to life.
 
 ---
 
-### 🎮 projects
+### 🎮 Projects
 
 - `NETRUNNER`: NOMAD NIGHTMARE
 
 ---
 
-### 🛰 connect
+### 🛰 Connect with me
 
 [Telegram](https://t.me/ntrdev) • [itch.io](https://netrunnerhub.itch.io) • [Email](mailto:netrunnerhub@gmail.com)
 
